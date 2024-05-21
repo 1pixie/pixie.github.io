@@ -1,0 +1,71 @@
+#Links{
+    height: 150px;
+    width: 10%;
+    background-color: royalblue;
+    border: 1px solid black;
+}
+p{
+    line-height: 0%;
+    padding-left: 10px;
+}
+
+h1{
+    text-align: center;
+}
+#germs{
+    height: 150px;
+    width: 70%;
+    padding-left: 25px;
+}
+h2{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#men{
+    height: 150px;
+    width: 10%;
+    padding-top: 0px;
+}
+h3{
+    font-weight: bold;
+    font-size: 26px;
+    text-align: center;
+}
+
+.group{
+    display: flex;
+}
+
+.local{
+    border-bottom: 2px solid black;
+    width: 300px;
+}
+
+.h4{
+    padding-left: 12%;
+    background-color: blue;
+    color: white;
+    width: 230px;
+}
+
+.marks{
+    padding-top: 10px;
+    padding-left: 153px;
+}
+
+
+.image img{
+    height: 70px;
+    width: 70px;
+    float: right;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+.drums{
+    display: flex;
+}
+.organ{
+    padding-top: 10px;
+    padding-left: 153px;
+}
